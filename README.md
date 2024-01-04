@@ -20,7 +20,6 @@ This project was created using Laravel, PHP, Rest API which implements authentic
 - **CRUD User features, login features, and register features** 
 - **"Value calculation feature** 
 - **CRUD test,section,modul,test type, option pilihan ganda, jawaban statement, score, features** 
-- 
 
 
 ## How to Run This Project
